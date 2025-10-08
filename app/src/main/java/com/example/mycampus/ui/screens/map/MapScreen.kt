@@ -20,6 +20,9 @@ import org.osmdroid.util.GeoPoint
 import org.osmdroid.views.MapView
 import org.osmdroid.views.overlay.Marker
 import org.osmdroid.views.overlay.Polyline
+import com.example.mycampus.R
+
+
 
 @Composable
 fun MapScreen(viewModel: MapViewModel) {
